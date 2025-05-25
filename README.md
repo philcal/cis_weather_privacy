@@ -12,7 +12,7 @@ Regarding Privacy:
 
 - We do not track who looks at this page or the weather.
 - We do not ask Facebook for ANY user details.
-- We only post photos. That's it.
+- We post photos automatically from my balcony. That's all this page does. We do not want your private information.
 - We might occassionally look at the Facebook analytics to see if anyone ever uses the page.
 - We will not market, advertise, or contact people who look at this page.
 - We may respond in the regular Facebook manner, to anyone who posts to this page.
